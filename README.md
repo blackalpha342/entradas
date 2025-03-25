@@ -1,51 +1,35 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Entradas - Centro Restobar</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="entradas.js"></script>
-</head>
-<body>
-    <header>
-        <img src="https://entertechschool.github.io/public/code-101/excercises/centro-restobar/logo_centro.svg" alt="Centro Restobar Logo" class="logo">
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="entradas.html">Entradas</a>
-            <a href="platos.html">Platos de Fondo</a>
-            <a href="bebidas.html">Bebidas</a>
-            <a href="#contacto">Contáctanos</a>
-        </nav>
-    </header>
+# Platos de Fondo - Centro Restobar
 
-    <main>
-        <h1>Entradas</h1>
-        <section class="menu">
-            <h2>Nuestras Entradas</h2>
-            <div class="menu-grid">
-                <div class="card">
-                    <img src="https://blog.renaware.com/wp-content/uploads/2024/04/Causa-Limena-02.jpg" alt="Causa Limeña">
-                    <h3>Causa Limeña</h3>
-                    <p>Deliciosa entrada peruana a base de papa amarilla, ají amarillo, limón y relleno de pollo o atún.</p>
-                </div>
-                <div class="card">
-                    <img src="https://www.huleymantel.com/uploads/s1/49/39/29/fotos-variadas-luis-miguel-anon-13.webp" alt="Ceviche Clásico">
-                    <h3>Ceviche Clásico</h3>
-                    <p>Pescado fresco marinado en limón, ají y especias peruanas, acompañado de choclo y camote.</p>
-                </div>
-                <div class="card">
-                    <img src="https://www.allrecipes.com/thmb/Uy0mjOBFWHPU4qkPCMG2C_RxyD4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2282284-1f2369d6c3d94555ac453af58be416f8.jpg" alt="Papa a la Huancaína">
-                    <h3>Papa a la Huancaína</h3>
-                    <p>Papas sancochadas bañadas en una cremosa salsa de queso, ají amarillo y galletas.</p>
-                </div>
-                <div class="card">
-                    <img src="https://comidasperuanas.net/wp-content/uploads/2015/06/Anticuchos-de-Corazón-Peruanos.jpg" alt="Anticuchos">
-                    <h3>Anticuchos</h3>
-                    <p>Brochetas de corazón de res marinadas en ají panca y especias, servidas con papa dorada y ají.</p>
-                </div>
-            </div>
-        </section>
-    </main>
-</body>
-</html>
+Bienvenidos a la sección de **Platos de Fondo** del Centro Restobar.
+
+## Menú
+
+### Nuestros Platos de Fondo
+
+#### 1. Lomo Saltado
+<img src="https://static.wixstatic.com/media/9755d8_b2d98eade0814b17a67fdf7d95888fdc~mv2.png/v1/fill/w_1280,h_720,al_c/9755d8_b2d98eade0814b17a67fdf7d95888fdc~mv2.png" alt="Lomo Saltado" width="300" height="168">
+
+Exquisito salteado de carne, cebolla y tomate con papas fritas y arroz.
+
+---
+
+#### 2. Ají de Gallina
+<img src="https://recetas.comohacer.cl/wp-content/uploads/2023/03/aji-de-gallina-con-arroz.jpg" alt="Ají de Gallina" width="300" height="168">
+
+Pechuga deshilachada en una cremosa salsa de ají amarillo, con arroz y papas.
+
+---
+
+#### 3. Arroz Chaufa
+<img src="https://img-global.cpcdn.com/recipes/b024fdf7d2479a61/1200x630cq70/photo.jpg" alt="Arroz Chaufa" width="300" height="168">
+
+Arroz frito estilo chino-peruano con pollo, huevo y cebollita china.
+
+---
+
+#### 4. Seco de Cordero
+<img src="https://cocinaperuana.espaciolatino.com/recetas-de-cordero/img600/seco-cabrito.jpg" alt="Seco de Cordero" width="300" height="168">
+
+Guiso de cordero en aderezo de culantro, acompañado de arroz y frijoles.
+
+---
